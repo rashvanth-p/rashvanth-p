@@ -1,157 +1,120 @@
 
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F3B70,100:06B6D4&height=200&section=header&text=Rashvanth%20P&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%7C%20AI%20%7C%20Data%20Science&descSize=18&descAlignY=58" width="100%" alt="Rashvanth P profile banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Rashvanth P 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1f6feb&height=200&section=header&text=Turning%20ideas%20into%20intelligent%20solutions&fontSize=30&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Banner" width="100%"/>
 
-<h3 align="center">
-  Python Developer | AI & GenAI Enthusiast | 2026 CSE Graduate
-</h3>
+<img src="https://skillicons.dev/icons?i=python,postgres,react,django,flask,fastapi&theme=dark" alt="Primary stack"/>
 
-<p align="center">
-  <a href="https://github.com/rashvanth-p">
-    <img src="https://img.shields.io/badge/GitHub-rashvanth--p-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rashvanth-p-066826373/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://rashvanth-p.github.io/rashvanth-portfolio-c/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![GenAI](https://img.shields.io/badge/GenAI-0d1117?style=for-the-badge&logo=openai&logoColor=a371f7)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=58a6ff)
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=0081FB)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a 2026 B.E. Computer Science graduate interested in building practical software solutions using **Python, Generative AI, and Data Science**.
+I'm a 2026 B.E. Computer Science graduate, passionate about **Python, Generative AI and Data Science**.
+I enjoy building projects that solve real problems and love learning new technologies.
 
-- 🔭 Building AI-powered applications and software projects
-- 🤖 Exploring LLMs, RAG, embeddings, and FAISS
-- 📊 Learning data analysis using Pandas and NumPy
-- 🌱 Improving my React and full-stack development skills
-- 🎯 Seeking fresher opportunities in Python, Software Development, and AI
+Currently exploring AI, full-stack development and data-driven solutions to create impactful products.
 
----
-
-## 🧰 Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,js" alt="Python, MySQL and JavaScript"/>
-</p>
-
-### AI & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-6C47FF?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy"/>
-</p>
-
-### Backend & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,html,css,react" alt="Flask, FastAPI, HTML, CSS and React"/>
-</p>
-
-### Tools & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres" alt="Git, GitHub, VS Code and PostgreSQL"/>
-</p>
+📍 Trichy, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.E. Computer Science (2026)
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Resume Analyzer
-
-AI-powered resume analysis using LLMs and Retrieval-Augmented Generation.
-
-- Resume PDF processing
-- Job description matching
-- Embeddings and FAISS search
-- AI-generated analysis
-
-**Tech:** Python, Streamlit, LangChain, FAISS, Groq
-
-[🚀 Live Demo](https://rashvanth-ai-rag-project.hf.space/)
-
-[📂 Source Code](https://github.com/Rashvanth-P/ai-resume-analyzer)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 AI Project Estimation System
-
-An application for generating AI-assisted project plans and estimates.
-
-- Project module planning
-- Timeline generation
-- Team-size suggestions
-- Technology-stack recommendations
-
-**Tech:** React, AI, REST APIs
-
-[🚀 Live Demo](https://ai-project-manager-nu.vercel.app/)
-
-[📂 Source Code](https://github.com/Rashvanth-P/ai-project-manager)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 AI Resume Analyzer</h3>
+      <p>Analyzes resumes against job descriptions and identifies relevant skills and matching information.</p>
+      <ul>
+        <li>Built with Python, Streamlit, LangChain, FAISS and Groq</li>
+        <li>Uses embeddings and RAG for document analysis</li>
+        <li>Supports resume uploads and job-description matching</li>
+      </ul>
+      <a href="https://github.com/rashvanth-p/REPO_NAME">Repository</a> •
+      <a href="https://YOUR-LIVE-DEMO-URL">Live Demo</a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B"/>
+      <img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+      <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+      <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=0081FB"/>
+      <img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 AI Project Estimation System</h3>
+      <p>Generates project plans, modules, timelines, team-size suggestions and technology-stack recommendations.</p>
+      <ul>
+        <li>React frontend with AI-powered project planning</li>
+        <li>Django REST backend with PostgreSQL</li>
+        <li>Explores full-stack development and API integration</li>
+      </ul>
+      <a href="https://github.com/rashvanth-p/REPO_NAME">Repository</a> •
+      <a href="https://YOUR-LIVE-DEMO-URL">Live Demo</a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+      <img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&logo=openai&logoColor=a371f7"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📈 GitHub Statistics
+## 🛠️ Skills
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rashvanth-p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashvanth-p&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rashvanth-p&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,react,js,html,css,postgres,git,github,vscode&theme=dark" alt="Skills"/>
+
+<sub>Pandas • NumPy • LangChain • FAISS • RAG • LLMs • REST APIs • Web Technologies</sub>
+
+</div>
 
 ---
 
-## 🎯 Current Goals
+## 📊 GitHub Stats
 
-- [ ] Improve Python and SQL problem-solving
-- [ ] Build more practical AI applications
-- [ ] Strengthen REST API and backend development
-- [ ] Improve React and full-stack skills
-- [ ] Contribute to open-source projects
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rashvanth-p&show_icons=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashvanth-p&layout=compact&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top languages"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rashvanth-p&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Activity graph"/>
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/rashvanth-p">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rashvanth-p-066826373/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://rashvanth-p.github.io/rashvanth-portfolio-c/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge" alt="Portfolio"/>
-  </a>
+Open to opportunities, internships and collaborations. Feel free to reach out!
+
+<p>
+  <a href="https://github.com/rashvanth-p"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rashvanth-p-066826373"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 </p>
 
-<p align="center">
-  <i>"Building projects, learning continuously, and turning ideas into practical solutions." 🚀</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:020617&height=100&section=footer" width="100%" alt="Footer banner"/>
-</p>
+> *"Better code. Better solutions."* — Rashvanth P
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0b1220&height=100&section=footer" width="100%"/>
+
+</div>
